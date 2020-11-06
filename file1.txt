@@ -11,3 +11,5 @@
 在branch1上完成功能2
 
 强制禁用fast forward合并模式。
+
+stash暂存dev分支，在master分支上修复bug1
