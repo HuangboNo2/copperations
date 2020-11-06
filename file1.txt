@@ -9,3 +9,5 @@
 
 在mater分支中修改，与在branch1分支中产生冲突。
 在branch1上完成功能2
+
+强制禁用fast forward合并模式。
