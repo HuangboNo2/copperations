@@ -2,10 +2,10 @@
 
 int main(int argc, char** argv)
 {
-	int c = 1;
+	int a = 0, b = 1, c = 1;
 	if(0 == c)
 	{
 		return c;
 	}
-	return 0;
+	return a+b;
 }
